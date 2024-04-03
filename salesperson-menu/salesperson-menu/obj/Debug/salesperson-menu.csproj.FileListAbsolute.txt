@@ -1,0 +1,11 @@
+D:\Users\For WEBTOON\PROGRAMMING\C#\salesperson-menu\salesperson-menu\bin\Debug\salesperson-menu.exe
+D:\Users\For WEBTOON\PROGRAMMING\C#\salesperson-menu\salesperson-menu\bin\Debug\salesperson-menu.pdb
+D:\Users\For WEBTOON\PROGRAMMING\C#\salesperson-menu\salesperson-menu\obj\Debug\salesperson-menu.csproj.AssemblyReference.cache
+D:\Users\For WEBTOON\PROGRAMMING\C#\salesperson-menu\salesperson-menu\obj\Debug\salesperson_menu.Form1.resources
+D:\Users\For WEBTOON\PROGRAMMING\C#\salesperson-menu\salesperson-menu\obj\Debug\salesperson_menu.Properties.Resources.resources
+D:\Users\For WEBTOON\PROGRAMMING\C#\salesperson-menu\salesperson-menu\obj\Debug\salesperson-menu.csproj.GenerateResource.cache
+D:\Users\For WEBTOON\PROGRAMMING\C#\salesperson-menu\salesperson-menu\obj\Debug\salesperson-menu.csproj.CoreCompileInputs.cache
+D:\Users\For WEBTOON\PROGRAMMING\C#\salesperson-menu\salesperson-menu\obj\Debug\salesperson-menu.exe
+D:\Users\For WEBTOON\PROGRAMMING\C#\salesperson-menu\salesperson-menu\obj\Debug\salesperson-menu.pdb
+D:\Users\For WEBTOON\PROGRAMMING\C#\salesperson-menu\salesperson-menu\obj\Debug\salesperson_menu.SummaryForm.resources
+D:\Users\For WEBTOON\PROGRAMMING\C#\salesperson-menu\salesperson-menu\obj\Debug\salesperson_menu.AboutForm.resources
